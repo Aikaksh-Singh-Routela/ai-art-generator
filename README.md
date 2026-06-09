@@ -58,10 +58,6 @@ No login required. Generate images for free using distributed volunteer GPUs.
 - **Source Code:** [https://github.com/Aikaksh-Singh-Routela/ai-art-generator](https://github.com/Aikaksh-Singh-Routela/ai-art-generator)
 - **AI Horde:** [https://aihorde.net](https://aihorde.net)
 
-## 📸 Examples
-
-*[Add 2-3 screenshots of your best generated images here — leopard, wolf, etc.]*
-
 ## 🛠️ What I Built
 
 - **Web Application:** Customized Next.js front-end with my own branding
