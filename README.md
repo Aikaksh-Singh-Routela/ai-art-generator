@@ -10,11 +10,6 @@ A production-ready AI image generator that turns text prompts into custom images
 
 No login required. Generate images for free using distributed volunteer GPUs.
 
-🔗 Links
-Live Demo: ai-art-generator-ochre.vercel.app
-
-Source Code: github.com/Aikaksh-Singh-Routela/ai-art-generator
-
 ## 📸 Examples
 
 *[Add 2-3 screenshots of your best generated images here — leopard, wolf, etc.]*
@@ -54,6 +49,12 @@ cd ai-art-generator
 npm install
 npm run dev
 Then open http://localhost:3000
+
+## 🔗 Links
+
+- **Live Demo:** [https://ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app)
+- **Source Code:** [https://github.com/Aikaksh-Singh-Routela/ai-art-generator](https://github.com/Aikaksh-Singh-Routela/ai-art-generator)
+- **AI Horde:** [https://aihorde.net](https://aihorde.net)
 
 
 
