@@ -13,8 +13,8 @@ Here are images generated using this tool:
 |-------|--------|
 | ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A realistic leopard walking through tall grass" |
 | ![Wolf](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/wolf.png) | "A gray wolf standing in a misty forest" |
-| ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "Pink hair anime girl, vibrant colors" |
-| ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/oldman.png) | "A smiling old man, warm lighting" |
+| ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/anime-girl.png) | "Pink hair anime girl, vibrant colors" |
+| ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/old-man.png) | "A smiling old man, warm lighting" |
 
 ## 🛠️ What I Built
 
