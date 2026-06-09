@@ -1,6 +1,6 @@
 # AI Image Generator — by Aikaksh Singh Routela
 
-<<<<<<< HEAD
+HEAD
 **Live Demo:** [https://ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app) | **Source Code:** [https://github.com/Aikaksh-Singh-Routela/ai-art-generator](https://github.com/Aikaksh-Singh-Routela/ai-art-generator)
 
 A production-ready AI image generator that turns text prompts into custom images using the community-powered AI Horde network. Built, customized, and deployed as a personal portfolio project.
