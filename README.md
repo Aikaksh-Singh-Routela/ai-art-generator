@@ -11,9 +11,9 @@ Here are images generated using this tool:
 
 | Image | Prompt |
 |-------|--------|
-| ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A realistic leopard walking through tall grass" |
-| ![Wolf](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/wolf.png) | "A gray wolf standing in a misty forest" |
-| ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "Pink hair anime girl smiling" |
+| ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A leopard with a piercing gaze" |
+| ![Wolf](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/wolf.png) | "A wolf in a forest" |
+| ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "A pink haired anime girl smiling" |
 | ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/oldman.png) | "A cheerful old man" |
 
 ## 🛠️ What I Built
