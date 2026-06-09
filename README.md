@@ -1,96 +1,61 @@
-# ArtBot
+# AI Image Generator — by Aikaksh Singh Routela
 
-A front-end GUI for interacting with AI Horde's distributed cluster of Stable Diffusion workers.
+**Live Demo:** [ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app)
 
-## Table of Contents
+A production-ready AI image generator that turns text prompts into custom images using the community-powered AI Horde network. I built, customized, and deployed this project to demonstrate full-stack development, API integration, and AI tooling skills.
 
-- [Intro](#intro)
-- [Setup](#setup)
-  - [Requirements](#requirements)
-  - [Installing](#installing)
-- [Usage](#usage)
-  - [Development](#development)
-  - [Production](#production)
-- [Contributions](#contributions)
-- [Acknowledgements](#acknowledgements)
+## 🚀 Live Demo
 
-## Intro
+👉 **Try it yourself:** [ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app)
 
-ArtBot is a front-end web client designed for interacting with the [AI Horde](https://aihorde.net/) open source distributed cluster -- a group of GPUs running Stable Diffusion whose processing time has been kindly donated by an enthusiastic community of volunteers.
+No login required. Generate images for free using distributed volunteer GPUs.
 
-ArtBot is built using [Next.js 14](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/). It uses client-side technologies such as IndexedDB and LocalStorage APIs in order to securely and privately store the AI generated images you've created using the cluster within your own web browser.
+## 📸 Examples
 
-## Setup
+*[Add 2-3 screenshots of your best generated images here — leopard, wolf, etc.]*
 
-### Requirements
+## 🛠️ What I Built
 
-- node `>= 18.18.0`
-- npm `>= 9.5.1`
+- **Web Application:** Customized Next.js front-end with my own branding
+- **API Integration:** Connected to AI Horde REST API for async image generation
+- **GPU Worker:** Configured and run my own GTX 1660 worker that contributes processing power to the network 24/7
+- **Deployment:** Hosted live on Vercel with continuous deployment
 
-Most of these steps should be applicable to Linux, MacOS, or Windows environments.
+## 💻 Tech Stack
 
-Installing various versions of Node.js on your machine can be tricky. I am a big fan of [nvm](https://github.com/nvm-sh/nvm), which allows you to run multiple isolated versions of Node.js on your machine with ease.
+| Category | Technologies |
+|----------|--------------|
+| Framework | Next.js 14, React |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| API | AI Horde REST API |
+| Deployment | Vercel |
+| Version Control | Git, GitHub |
 
-Using `nvm`, you can install Node like this:
+## 🖥️ My GPU Worker
 
-```bash
-> nvm install v18.18.0
-> nvm alias default node
-> node -v # Checks which version of Node is currently running
-```
+Part of this project includes running a dedicated worker on my own PC (GTX 1660, 16GB RAM). This worker:
+- Processes image generation requests from other users
+- Earns Kudos (priority currency) for faster generations
+- Contributes to a free, open source community network
 
-### Installing
+## 🏗️ Local Development
 
-Once you have your Node.js environment setup, you can clone this repository and install the required packages. Depending on the specs of your machine and speed of your internet connection, installing all packages may take a minute or two.
-
-```bash
-> git clone https://github.com/Haidra-Org/artbot.git
-> cd artbot
-> npm install
-```
-
-## Usage
-
-### Development
-
-Alright, you should now be able to run the ArtBot web app! To run in development mode (which uses NextJS's hot reloading feature -- where you can see updates live on the site as you make changes)
+To run this project locally:
 
 ```bash
-> npm run dev
-```
+git clone https://github.com/Aikaksh-Singh-Routela/ai-art-generator.git
+cd ai-art-generator
+npm install
+npm run dev
+Then open http://localhost:3000
 
-Then, open your browser and visit `http://localhost:3000`, you should now be able to immediately make image requests to the Stable Horde. Head over to `http://localhost:3000/settings` and enter your Stable Horde API key for faster generation times.
+🔗 Links
+Live Demo: ai-art-generator-ochre.vercel.app
 
-### Production
+Source Code: github.com/Aikaksh-Singh-Routela/ai-art-generator
 
-ArtBot is built using [Next.JS's standalone mode](https://nextjs.org/docs/pages/api-reference/next-config-js/output). This outputs the project to `./next/standalone`. The idea is that this folder can be gzipped and uploaded to wherever you need to serve the project.
+AI Horde: aihorde.net
 
-After running `npm run build`, you'll need to run `npm run postbuild` in order to copy static assets and the public folder (NextJS doesn't automatically do this, as these sorts of things should usually be uploaded to a CDN). If you forget to run the `postbuild` script, ArtBot will be missing images and CSS styles.
-
-```bash
-> npm run build
-> npm run postbuild # copies public folder
-> cd ./next/standalone
-> node server.js
-```
-
-## Contributions
-
-Contributions are very welcome! General guidelines are as follows:
-
-1. [Fork this repository](https://github.com/Haidra-Org/artbot/fork)
-2. Cut a new feature branch. e.g., `> git checkout -b feat/my-cool-new-feature`
-3. Make any necessary changes and commit your code! (If possible, use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/))
-4. [Open a new pull request](https://github.com/Haidra-Org/artbot/pulls) based on your feature branch.
-
-Let me know if you have any questions. I'm more than happy to help.
-
-## Acknowledgements
-
-ArtBot makes use of a number of resources provided by designers and developers who make their work freely available. Without these tools, ArtBot and many other projects on the Internet would not be able to exist. We are very grateful!
-
-- ["AI free icon" via Flaticon](https://www.flaticon.com/free-icon/ai_2814666?related_id=2814650) - used for the ArtBot logo
-- [Next.js](https://nextjs.org/)
-- [Statery](https://github.com/hmans/statery) - Simple global state management
-- [Tabler Icons](https://tabler-icons.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
+📄 License
+MIT
