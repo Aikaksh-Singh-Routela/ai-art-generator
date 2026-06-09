@@ -100,12 +100,11 @@ export default function Home() {
   return (
     <div className="flex flex-col p-2 md:p-16 gap-8 items-center text-center">
       <h1 className="leading-[64px] text-[64px] md:text-[128px] md:leading-[128px]">
-        Welcome to <span className="primary-color font-bold">ArtBot!</span>
+        Welcome to <span className="primary-color font-bold">Aikaksh&apos;s AI Art Generator!</span>
       </h1>
       <div className="col gap-4 max-w-[800px] w-full">
         <div className="text-[20px] text-center">
-          ArtBot is your gateway to experiment with the wonderful world of
-          generative AI art using the power of the{' '}
+          This AI image generator was built by <strong>Aikaksh Singh Routela</strong> using the power of the{' '}
           <span className="inline-flex gap-1 text-nowrap">
             <strong>AI Horde</strong>
             <div className="pt-[2px]">

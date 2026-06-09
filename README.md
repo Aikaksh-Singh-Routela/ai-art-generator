@@ -1,6 +1,50 @@
-# ArtBot
+# AI Image Generator — by Aikaksh Singh Routela
 
-A front-end GUI for interacting with AI Horde's distributed cluster of Stable Diffusion workers.
+**Live Demo:** [https://ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app) | **Source Code:** [https://github.com/Aikaksh-Singh-Routela/ai-art-generator](https://github.com/Aikaksh-Singh-Routela/ai-art-generator)
+
+A production-ready AI image generator that turns text prompts into custom images using the community-powered AI Horde network. Built, customized, and deployed as a personal portfolio project.
+
+## 📸 Examples
+
+Here are images generated using this tool:
+
+| Image 
+
+| ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png)
+ 
+| ![Wolf](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/wolf.png) 
+*Replace the image links above with your own screenshots after uploading them to `public/screenshots/`*
+
+| ![Pink hair anime girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/pink hair anime girl.png) 
+*Replace the image links above with your own screenshots after uploading them to `public/screenshots/`*
+
+| ![Smiling old man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/smiling old man.png) 
+*Replace the image links above with your own screenshots after uploading them to `public/screenshots/`*
+
+## 🛠️ What I Built
+
+- **Web Application:** Customized Next.js front-end with my own branding
+- **API Integration:** Connected to AI Horde REST API for async image generation
+- **GPU Worker:** Configured and run my own GTX 1660 worker that contributes processing power to the network
+- **Deployment:** Hosted live on Vercel with continuous deployment
+
+## 💻 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Framework | Next.js 14, React |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| API | AI Horde REST API |
+| Deployment | Vercel |
+| Version Control | Git, GitHub |
+
+## 🖥️ My GPU Worker
+
+Part of this project includes running a dedicated worker on my own PC (GTX 1660, 16GB RAM). This worker:
+- Processes image generation requests from other users
+- Earns Kudos (priority currency) for faster generations
+- Contributes to a free, open source community network
 
 ## Table of Contents
 
@@ -37,60 +81,3 @@ Using `nvm`, you can install Node like this:
 > nvm install v18.18.0
 > nvm alias default node
 > node -v # Checks which version of Node is currently running
-```
-
-### Installing
-
-Once you have your Node.js environment setup, you can clone this repository and install the required packages. Depending on the specs of your machine and speed of your internet connection, installing all packages may take a minute or two.
-
-```bash
-> git clone https://github.com/Haidra-Org/artbot.git
-> cd artbot
-> npm install
-```
-
-## Usage
-
-### Development
-
-Alright, you should now be able to run the ArtBot web app! To run in development mode (which uses NextJS's hot reloading feature -- where you can see updates live on the site as you make changes)
-
-```bash
-> npm run dev
-```
-
-Then, open your browser and visit `http://localhost:3000`, you should now be able to immediately make image requests to the Stable Horde. Head over to `http://localhost:3000/settings` and enter your Stable Horde API key for faster generation times.
-
-### Production
-
-ArtBot is built using [Next.JS's standalone mode](https://nextjs.org/docs/pages/api-reference/next-config-js/output). This outputs the project to `./next/standalone`. The idea is that this folder can be gzipped and uploaded to wherever you need to serve the project.
-
-After running `npm run build`, you'll need to run `npm run postbuild` in order to copy static assets and the public folder (NextJS doesn't automatically do this, as these sorts of things should usually be uploaded to a CDN). If you forget to run the `postbuild` script, ArtBot will be missing images and CSS styles.
-
-```bash
-> npm run build
-> npm run postbuild # copies public folder
-> cd ./next/standalone
-> node server.js
-```
-
-## Contributions
-
-Contributions are very welcome! General guidelines are as follows:
-
-1. [Fork this repository](https://github.com/Haidra-Org/artbot/fork)
-2. Cut a new feature branch. e.g., `> git checkout -b feat/my-cool-new-feature`
-3. Make any necessary changes and commit your code! (If possible, use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/))
-4. [Open a new pull request](https://github.com/Haidra-Org/artbot/pulls) based on your feature branch.
-
-Let me know if you have any questions. I'm more than happy to help.
-
-## Acknowledgements
-
-ArtBot makes use of a number of resources provided by designers and developers who make their work freely available. Without these tools, ArtBot and many other projects on the Internet would not be able to exist. We are very grateful!
-
-- ["AI free icon" via Flaticon](https://www.flaticon.com/free-icon/ai_2814666?related_id=2814650) - used for the ArtBot logo
-- [Next.js](https://nextjs.org/)
-- [Statery](https://github.com/hmans/statery) - Simple global state management
-- [Tabler Icons](https://tabler-icons.io/)
-- [Tailwind CSS](https://tailwindcss.com/)

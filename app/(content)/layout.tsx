@@ -11,11 +11,11 @@ import NotificationsManager from '../_components/NotificationBanners/Notificatio
 import Footer from '../_components/Footer';
 import MobileFooter from '../_components/MobileFooter';
 
-const APP_NAME = 'ArtBot';
-const APP_DEFAULT_TITLE = 'ArtBot for Stable Diffusion';
-const APP_TITLE_TEMPLATE = '%s | ArtBot';
+const APP_NAME = 'Aikaksh\'s AI Art Generator';
+const APP_DEFAULT_TITLE = 'Aikaksh\'s AI Art Generator for Stable Diffusion';
+const APP_TITLE_TEMPLATE = '%s | Aikaksh\'s AI Art Generator';
 const APP_DESCRIPTION =
-  'Generate AI-created images and photos for free, with ArtBot, using an open source distributed computing cluster of Stable Diffusion GPUs powered by volunteers and the AI Horde. No login required and free to use.';
+  'Generate AI-created images and photos for free, with Aikaksh\'s AI Art Generator, using an open source distributed computing cluster of Stable Diffusion GPUs powered by volunteers and the AI Horde. No login required and free to use.';
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
@@ -63,7 +63,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="flex flex-col min-h-screen" id="__app">
+      <body className="flex flex-col justify-center" id="__app">
         <ModalProvider>
           <Toaster />
           <AppInit />
@@ -76,10 +76,7 @@ export default function RootLayout({
             <HeaderNav />
             <main
               className="flex flex-col gap-2 w-full flex-1"
-              style={{
-                minHeight: '320px',
-                padding: '8px'
-              }}
+              style={{ padding: '8px' }}
             >
               <ContentWrapper>
                 <NotificationsManager />
