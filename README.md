@@ -38,6 +38,7 @@ A production-ready AI image generator that turns text prompts into custom images
    </table>
 </div>
 
+
 <div align="center">
   <table style="width: 100%; border: none;">
     <tr>
@@ -45,7 +46,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="detective" src="https://github.com/user-attachments/assets/ec22a017-24af-4a22-9332-28b37b7908e0" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Detective character portrait | Generated with Stable Diffusion"</i>
+        <i>"A noir-style detective in a trench coat, standing in a rainy city street | Generated with Stable Diffusion"</i>
       </td>
     </tr>
     <tr>
@@ -53,7 +54,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="animegirl" src="https://github.com/user-attachments/assets/0033b5f1-c143-46c0-b7ad-1416e136379d" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Anime-style girl character | Generated with Stable Diffusion"</i>
+        <i>"Anime-style girl with flowing pink hair, vibrant colors, detailed illustration | Generated with Stable Diffusion"</i>
       </td>
     </tr>
     <tr>
@@ -61,7 +62,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="oldman" src="https://github.com/user-attachments/assets/763dd35f-e914-4846-8a82-3ed91301f080" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Elderly gentleman portrait | Generated with Stable Diffusion"</i>
+        <i>"A smiling old man with warm lighting, portrait photography style | Generated with Stable Diffusion"</i>
       </td>
     </tr>
   </table>
