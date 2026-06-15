@@ -7,15 +7,13 @@ A production-ready AI image generator that turns text prompts into custom images
 
 ## Examples
 
-## 🎨 Sample Generations
+## Sample Generations
 
 | Generated Image | Prompt Used |
-|:---------------:|:------------|
-
-<img width="768" height="768" alt="Bengalcat" src="https://github.com/user-attachments/assets/0f4aafa8-e20d-4195-92be-46b28fbbbc0d" />
-<div align="center"><img width="768" height="768" alt="blackpanther" src="https://github.com/user-attachments/assets/865501a2-bcca-4a07-8608-1780256e01c5" />
-<img width="768" height="768" alt="leopard" src="https://github.com/user-attachments/assets/6ce75d8d-6744-4b79-8e41-7b09484f24ea" /> *Prompt: A Leopard with a piercing stare*
-
+|:---:|:---:|
+| <img width="300" alt="Bengal cat" src="https://github.com/user-attachments/assets/0f4aafa8-e20d-4195-92be-46b28fbbbc0d" /> | `"A beautiful Bengal cat with striking green eyes"` |
+| <img width="300" alt="Black panther" src="https://github.com/user-attachments/assets/865501a2-bcca-4a07-8608-1780256e01c5" /> | `"Black panther in sitting among leaves,in an amazon rain forest"` |
+| <img width="300" alt="Leopard" src="https://github.com/user-attachments/assets/6ce75d8d-6744-4b79-8e41-7b09484f24ea" /> | `"A Leopard with a piercing stare"` |
 
 
 
