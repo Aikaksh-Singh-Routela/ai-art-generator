@@ -10,7 +10,6 @@ A production-ready AI image generator that turns text prompts into custom images
 ## Sample Generations
 
 <div align="center">
-  <table style="width: 100%; border: none;">
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="Bengalcat" src="https://github.com/user-attachments/assets/0f7776f2-8832-43f7-bf66-f91f89ca6cec?raw=true" />
