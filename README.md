@@ -53,7 +53,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="redfox" src="https://github.com/user-attachments/assets/1a0465e5-7a35-4051-8f78-3c125f5ee1ec" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A majestic red fox in a snowy forest | Generated with Stable Diffusion"</i>
+        <i>"A majestic red fox in a snowy forest | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Lone Samurai -->
@@ -62,7 +62,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="lonesamurai" src="https://github.com/user-attachments/assets/f2d2b8d6-17df-4128-9286-ba429755594e" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A lone samurai standing beneath a cherry blossom tree at sunset | Generated with Stable Diffusion"</i>
+        <i>"A lone samurai standing beneath a cherry blossom tree at sunset | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Polar Bear -->
@@ -71,7 +71,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="polarbear" src="https://github.com/user-attachments/assets/e76c76d2-67e6-41a8-9b65-69c4dd08289c" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A polar bear walking on Arctic ice | Generated with Stable Diffusion"</i>
+        <i>"A polar bear walking on Arctic ice | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Boy -->
@@ -80,7 +80,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="boy" src="https://github.com/user-attachments/assets/d0020435-7121-4633-bf21-a9daa6c8d422" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A young boy with a thoughtful expression, portrait photography | Generated with Stable Diffusion"</i>
+        <i>"A young boy with a thoughtful expression, portrait photography | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Anime Girl -->
@@ -89,7 +89,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="animegirl" src="https://github.com/user-attachments/assets/0033b5f1-c143-46c0-b7ad-1416e136379d" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Anime-style girl with flowing pink hair, vibrant colors, detailed illustration | Generated with Stable Diffusion"</i>
+        <i>"Anime-style girl with flowing pink hair, vibrant colors, detailed illustration | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Old Man -->
@@ -98,7 +98,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="oldman" src="https://github.com/user-attachments/assets/763dd35f-e914-4846-8a82-3ed91301f080" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A smiling old man with warm lighting, portrait photography style | Generated with Stable Diffusion"</i>
+        <i>"A smiling old man with warm lighting, portrait photography style | Generated with Dreamshaper model"</i>
       </td>
     </tr>
   </table>
