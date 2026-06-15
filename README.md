@@ -12,7 +12,6 @@ Here are images generated using this tool:
 | Image | Prompt |
 |-------|--------|
 | ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A leopard with a piercing gaze" |
-| ![Bengal cat](<img width="768" height="768" alt="Bengal cat" src="https://github.com/user-attachments/assets/4d6b87c0-d8bd-45c5-896d-ef745b6ba74b" />) | "A beautiful bengal cat" |
 | ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "A pink haired anime girl smiling" |
 | ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/oldman.png) | "A cheerful old man" |
 
