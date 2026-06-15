@@ -27,6 +27,14 @@ A production-ready AI image generator that turns text prompts into custom images
         <i>"Black panther sitting among leaves, in an Amazon rainforest"</i>
        </td>
     </tr>
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="leopard" src="https://github.com/user-attachments/assets/5c78080d-5c06-4591-b750-37ac5048e937?raw=true" />
+       </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A Leopard with a piercing stare"</i>
+       </td>
+    </tr>
    </table>
 </div>
 
