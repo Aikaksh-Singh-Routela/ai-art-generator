@@ -9,36 +9,12 @@ A production-ready AI image generator that turns text prompts into custom images
 
 ## Sample Generations
 
-<div align="center">
-  <table style="width: 100%; border: none;">
-    <tr>
-      <td style="width: 70%; text-align: center; border: none;">
-        <img src="https://github.com/user-attachments/assets/0f4aafa8-e20d-4195-92be-46b28fbbbc0d?raw=true" width="100%" />
-        <img width="1024" height="1024" alt="Bengal cat" src="https://github.com/user-attachments/assets/31f89443-2a3d-47f1-a529-996bf59bafba" />
+<img width="1024" height="1024" alt="Bengalcat" src="https://github.com/user-attachments/assets/0f77f6f2-8832-43f7-bf66-f91f89ca6cec" />
+<img width="1024" height="1024" alt="blackpanther" src="https://github.com/user-attachments/assets/5f591ad0-0780-40ef-a50f-4af64ab2a5c9" />
+<img width="1024" height="1024" alt="leopard" src="https://github.com/user-attachments/assets/5c78080d-5c06-4591-b750-37ac5048e937" />
 
-      </td>
-      <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A beautiful Bengal cat with striking green eyes"</i>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 70%; text-align: center; border: none;">
-        <img src="https://github.com/user-attachments/assets/865501a2-bcca-4a07-8608-1780256e01c5?raw=true" width="100%" />
-      </td>
-      <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Black panther sitting among leaves, in an Amazon rainforest"</i>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 70%; text-align: center; border: none;">
-        <img src="https://github.com/user-attachments/assets/6ce75d8d-6744-4b79-8e41-7b09484f24ea?raw=true" width="100%" />
-      </td>
-      <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A Leopard with a piercing stare"</i>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
 
 
 
