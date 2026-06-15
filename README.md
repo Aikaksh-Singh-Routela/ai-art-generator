@@ -80,7 +80,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="boy" src="https://github.com/user-attachments/assets/d0020435-7121-4633-bf21-a9daa6c8d422" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A young boy with a thoughtful expression, portrait photography | Generated with Dreamshaper model"</i>
+        <i>"A young boy with a cheerful facial expression, portrait | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Anime Girl -->
