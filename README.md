@@ -53,7 +53,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="redfox" src="https://github.com/user-attachments/assets/1a0465e5-7a35-4051-8f78-3c125f5ee1ec" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A majestic red fox in a snowy forest | Generated with Dreamshaper model"</i>
+        <i>"A red fox in a snowy forest | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Lone Samurai -->
@@ -62,7 +62,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="lonesamurai" src="https://github.com/user-attachments/assets/f2d2b8d6-17df-4128-9286-ba429755594e" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A lone samurai standing beneath a cherry blossom tree at sunset | Generated with Dreamshaper model"</i>
+        <i>"A lone samurai standing beneath a cherry blossom tree with a serious facial expression | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Polar Bear -->
@@ -71,7 +71,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="polarbear" src="https://github.com/user-attachments/assets/e76c76d2-67e6-41a8-9b65-69c4dd08289c" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A polar bear walking on Arctic ice | Generated with Dreamshaper model"</i>
+        <i>"A polar bear lying on the snow | Generated with Dreamshaper model"</i>
       </td>
     </tr>
     <!-- Boy -->
