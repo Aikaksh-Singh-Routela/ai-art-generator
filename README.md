@@ -16,7 +16,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="Bengalcat" src="https://github.com/user-attachments/assets/51b0d91a-6e37-4321-a0af-c93764006969?raw=true" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A beautiful Bengal cat with striking green eyes | Initial generation with with Dreamshaper model,then refined using Gemini for enhanced sharpness and detail |"</i>
+        <i>"A beautiful Bengal cat with striking green eyes | Initial generation with Dreamshaper model, then refined using Gemini for enhanced sharpness and detail"</i>
       </td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="blackpanther" src="https://github.com/user-attachments/assets/5f591ad0-0780-40ef-a50f-4af64ab2a5c9?raw=true" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Black panther sitting among leaves, in an Amazon rainforest | Initial generation with with Dreamshaper model,then refined using Gemini for enhanced sharpness and detail |"</i>
+        <i>"Black panther sitting among leaves, in an Amazon rainforest | Initial generation with Dreamshaper model, then refined using Gemini for enhanced sharpness and detail"</i>
        </td>
     </tr>
     <tr>
@@ -35,12 +35,6 @@ A production-ready AI image generator that turns text prompts into custom images
         <i>"A Leopard with a piercing stare"</i>
        </td>
     </tr>
-   </table>
-</div>
-
-
-<div align="center">
-  <table style="width: 100%; border: none;">
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="detective" src="https://github.com/user-attachments/assets/ec22a017-24af-4a22-9332-28b37b7908e0" />
@@ -67,7 +61,6 @@ A production-ready AI image generator that turns text prompts into custom images
     </tr>
   </table>
 </div>
-
 
  
 
