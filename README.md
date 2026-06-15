@@ -5,16 +5,17 @@ HEAD
 
 A production-ready AI image generator that turns text prompts into custom images using the community-powered AI Horde network. Built, customized, and deployed as a personal portfolio project.
 
-## 📸 Examples
+## Examples
 
 Here are images generated using this tool:
 
-<!-- Row 1 -->
-
 <div align="center">
-<img width="768" height="768" alt="Bengalcat" src="https://github.com/user-attachments/assets/24171c6b-c5d6-442c-99ca-b7a745bdc76a"?raw=true" width="30%" />
-<img width="768" height="768" alt="blackpanther" src="https://github.com/user-attachments/assets/1cd53912-a8d2-4af8-a3c5-0de5e44f49db"?raw=true" width="30%" />
-<img width="768" height="768" alt="leopard" src="https://github.com/user-attachments/assets/ac1199e0-33eb-4c5f-96df-44cd6b7faa29"?raw=true" width="30%" />
+
+<img alt="Bengal cat" src="https://github.com/user-attachments/assets/24171c6b-c5d6-442c-99ca-b7a745bdc76a?raw=true" width="30%" />
+<img alt="Black panther" src="https://github.com/user-attachments/assets/1cd53912-a8d2-4af8-a3c5-0de5e44f49db?raw=true" width="30%" />
+<img alt="Leopard" src="https://github.com/user-attachments/assets/ac1199e0-33eb-4c5f-96df-44cd6b7faa29?raw=true" width="30%" />
+
+</div>
 
 
 
