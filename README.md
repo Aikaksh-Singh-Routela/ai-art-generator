@@ -9,12 +9,11 @@ A production-ready AI image generator that turns text prompts into custom images
 
 Here are images generated using this tool:
 
-| Image | Prompt |
-|-------|--------|
-| ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A leopard with a piercing gaze" |
-| <img width="768" height="768" alt="Bengal cat" src="https://github.com/user-attachments/assets/8c8a02a3-dd9a-4f9d-95da-66e993152457" /> | "A beautiful bengal cat" |
-| ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "A pink haired anime girl smiling" |
-| ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/oldman.png) | "A cheerful old man" |
+<!-- Row 1 -->
+<img width="768" height="768" alt="blackpanther" src="https://github.com/user-attachments/assets/1cd53912-a8d2-4af8-a3c5-0de5e44f49db" />
+<img width="768" height="768" alt="leopard" src="https://github.com/user-attachments/assets/ac1199e0-33eb-4c5f-96df-44cd6b7faa29" />
+<img width="768" height="768" alt="Bengalcat" src="https://github.com/user-attachments/assets/24171c6b-c5d6-442c-99ca-b7a745bdc76a" />
+
 
  
 
