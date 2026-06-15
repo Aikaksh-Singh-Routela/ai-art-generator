@@ -50,7 +50,7 @@ A production-ready AI image generator that turns text prompts into custom images
     <!-- Polar Bear -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
-        <img width="100%" alt="polarbear" src="https://github.com/user-attachments/assets/a01a8752-47a3-407d-bf4c-6fab9b1404b5" />
+        <img width="100%" alt="polarbear" src="https://github.com/user-attachments/assets/e76c76d2-67e6-41a8-9b65-69c4dd08289c" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
         <i>"A polar bear walking on Arctic ice | Generated with Stable Diffusion"</i>
@@ -103,6 +103,8 @@ A production-ready AI image generator that turns text prompts into custom images
     </tr>
   </table>
 </div>
+
+
 
 
 ## 🛠️ What I Built
