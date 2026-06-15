@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_kf7gxckf7gxckf7g" src="https://github.com/user-attachments/assets/a6a9ee44-ede8-45bb-9ef4-25d46a15cbd4" /># AI Image Generator — by Aikaksh Singh Routela
+
 
 HEAD
 **Live Demo:** [https://ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app) | **Source Code:** [https://github.com/Aikaksh-Singh-Routela/ai-art-generator](https://github.com/Aikaksh-Singh-Routela/ai-art-generator)
@@ -14,6 +14,7 @@ Here are images generated using this tool:
 | ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A leopard with a piercing gaze" |
 | ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "A pink haired anime girl smiling" |
 | ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/oldman.png) | "A cheerful old man" |
+  (<img width="768" height="768" alt="Bengal cat" src="https://github.com/user-attachments/assets/8c8a02a3-dd9a-4f9d-95da-66e993152457" />)
 
 
 
