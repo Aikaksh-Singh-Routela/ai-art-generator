@@ -16,7 +16,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="Bengalcat" src="https://github.com/user-attachments/assets/51b0d91a-6e37-4321-a0af-c93764006969?raw=true" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A beautiful Bengal cat with striking green eyes | Initial generation with with dreamshaper moddel,then refined using Gemini for enhanced sharpness and detail |"</i>
+        <i>"A beautiful Bengal cat with striking green eyes | Initial generation with with Dreamshaper model,then refined using Gemini for enhanced sharpness and detail |"</i>
       </td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="blackpanther" src="https://github.com/user-attachments/assets/5f591ad0-0780-40ef-a50f-4af64ab2a5c9?raw=true" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"Black panther sitting among leaves, in an Amazon rainforest"</i>
+        <i>"Black panther sitting among leaves, in an Amazon rainforest | Initial generation with with Dreamshaper model,then refined using Gemini for enhanced sharpness and detail |"</i>
        </td>
     </tr>
     <tr>
