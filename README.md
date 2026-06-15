@@ -9,10 +9,34 @@ A production-ready AI image generator that turns text prompts into custom images
 
 ## Sample Generations
 
-<img width="1024" height="1024" alt="Bengalcat" src="https://github.com/user-attachments/assets/0f77f6f2-8832-43f7-bf66-f91f89ca6cec" />
-<img width="1024" height="1024" alt="blackpanther" src="https://github.com/user-attachments/assets/5f591ad0-0780-40ef-a50f-4af64ab2a5c9" />
-<img width="1024" height="1024" alt="leopard" src="https://github.com/user-attachments/assets/5c78080d-5c06-4591-b750-37ac5048e937" />
-
+<div align="center">
+  <table style="width: 100%; border: none;">
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="Bengalcat" src="https://github.com/user-attachments/assets/0f7776f2-8832-43f7-bf66-f91f89ca6cec?raw=true" />
+      </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A beautiful Bengal cat with striking green eyes"</i>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="blackpanther" src="https://github.com/user-attachments/assets/5f591ad0-0780-40ef-a50f-4af64ab2a5c9?raw=true" />
+      </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"Black panther sitting among leaves, in an Amazon rainforest"</i>
+       </td>
+    </tr>
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="leopard" src="https://github.com/user-attachments/assets/5c78080d-5c06-4591-b750-37ac5048e937?raw=true" />
+       </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A Leopard with a piercing stare"</i>
+       </td>
+    </tr>
+   </table>
+</div>
 
 
 
