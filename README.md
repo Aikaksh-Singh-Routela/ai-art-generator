@@ -12,9 +12,11 @@ Here are images generated using this tool:
 | Image | Prompt |
 |-------|--------|
 | ![Leopard](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/leopard.png) | "A leopard with a piercing gaze" |
-| ![Wolf](<img width="1024" height="1024" alt="wolfHD" src="https://github.com/user-attachments/assets/f6f4a723-6448-4b09-ab8e-d13ea778e116" />) | "A wolf in a forest" |
+| ![Bengal cat](<img width="768" height="768" alt="Bengal cat" src="https://github.com/user-attachments/assets/4d6b87c0-d8bd-45c5-896d-ef745b6ba74b" />) | "A beautiful bengal cat" |
 | ![Anime Girl](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/animegirl.png) | "A pink haired anime girl smiling" |
 | ![Old Man](https://raw.githubusercontent.com/Aikaksh-Singh-Routela/ai-art-generator/main/public/screenshots/oldman.png) | "A cheerful old man" |
+
+
 
 ## 🛠️ What I Built
 
