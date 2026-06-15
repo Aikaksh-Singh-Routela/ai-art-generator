@@ -40,7 +40,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <img width="100%" alt="detective" src="https://github.com/user-attachments/assets/ec22a017-24af-4a22-9332-28b37b7908e0" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A noir-style detective in a trench coat, standing in a rainy city street | Generated with Stable Diffusion"</i>
+        <i>"A noir-style detective in a trench coat, standing in a rainy city street | Generated with Dreamshaper model,then refined using Gemini for enhanced sharpness and detail"</i>
       </td>
     </tr>
     <tr>
