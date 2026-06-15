@@ -14,6 +14,8 @@ A production-ready AI image generator that turns text prompts into custom images
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img src="https://github.com/user-attachments/assets/0f4aafa8-e20d-4195-92be-46b28fbbbc0d?raw=true" width="100%" />
+        <img width="1024" height="1024" alt="Bengal cat" src="https://github.com/user-attachments/assets/31f89443-2a3d-47f1-a529-996bf59bafba" />
+
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
         <i>"A beautiful Bengal cat with striking green eyes"</i>
