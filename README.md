@@ -11,6 +11,7 @@ A production-ready AI image generator that turns text prompts into custom images
 
 <div align="center">
   <table style="width: 100%; border: none;">
+    <!-- Bengal Cat -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="Bengalcat" src="https://github.com/user-attachments/assets/51b0d91a-6e37-4321-a0af-c93764006969?raw=true" />
@@ -19,6 +20,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <i>"A beautiful Bengal cat with striking green eyes | Initial generation with Dreamshaper model, then refined using Gemini for enhanced sharpness and detail"</i>
       </td>
     </tr>
+    <!-- Black Panther -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="blackpanther" src="https://github.com/user-attachments/assets/5f591ad0-0780-40ef-a50f-4af64ab2a5c9?raw=true" />
@@ -27,6 +29,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <i>"Black panther sitting among leaves, in an Amazon rainforest | Initial generation with Dreamshaper model, then refined using Gemini for enhanced sharpness and detail"</i>
        </td>
     </tr>
+    <!-- Leopard -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="leopard" src="https://github.com/user-attachments/assets/5c78080d-5c06-4591-b750-37ac5048e937?raw=true" />
@@ -35,14 +38,52 @@ A production-ready AI image generator that turns text prompts into custom images
         <i>"A Leopard with a piercing stare"</i>
        </td>
     </tr>
+    <!-- Red Fox -->
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="redfox" src="https://github.com/user-attachments/assets/1a0465e5-7a35-4051-8f78-3c125f5ee1ec" />
+      </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A majestic red fox in a snowy forest | Generated with Stable Diffusion"</i>
+      </td>
+    </tr>
+    <!-- Polar Bear -->
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="polarbear" src="https://github.com/user-attachments/assets/a01a8752-47a3-407d-bf4c-6fab9b1404b5" />
+      </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A polar bear walking on Arctic ice | Generated with Stable Diffusion"</i>
+      </td>
+    </tr>
+    <!-- Lone Samurai -->
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="lonesamurai" src="https://github.com/user-attachments/assets/f2d2b8d6-17df-4128-9286-ba429755594e" />
+      </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A lone samurai standing beneath a cherry blossom tree at sunset | Generated with Stable Diffusion"</i>
+      </td>
+    </tr>
+    <!-- Boy -->
+    <tr>
+      <td style="width: 70%; text-align: center; border: none;">
+        <img width="100%" alt="boy" src="https://github.com/user-attachments/assets/d0020435-7121-4633-bf21-a9daa6c8d422" />
+      </td>
+      <td style="width: 30%; vertical-align: middle; border: none;">
+        <i>"A young boy with a thoughtful expression, portrait photography | Generated with Stable Diffusion"</i>
+      </td>
+    </tr>
+    <!-- Detective -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="detective" src="https://github.com/user-attachments/assets/ec22a017-24af-4a22-9332-28b37b7908e0" />
       </td>
       <td style="width: 30%; vertical-align: middle; border: none;">
-        <i>"A noir-style detective in a trench coat, standing in a rainy city street | Generated with Dreamshaper model,then refined using Gemini for enhanced sharpness and detail"</i>
+        <i>"A noir-style detective in a trench coat, standing in a rainy city street | Generated with Dreamshaper model, then refined using Gemini for enhanced sharpness and detail"</i>
       </td>
     </tr>
+    <!-- Anime Girl -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="animegirl" src="https://github.com/user-attachments/assets/0033b5f1-c143-46c0-b7ad-1416e136379d" />
@@ -51,6 +92,7 @@ A production-ready AI image generator that turns text prompts into custom images
         <i>"Anime-style girl with flowing pink hair, vibrant colors, detailed illustration | Generated with Stable Diffusion"</i>
       </td>
     </tr>
+    <!-- Old Man -->
     <tr>
       <td style="width: 70%; text-align: center; border: none;">
         <img width="100%" alt="oldman" src="https://github.com/user-attachments/assets/763dd35f-e914-4846-8a82-3ed91301f080" />
@@ -61,9 +103,6 @@ A production-ready AI image generator that turns text prompts into custom images
     </tr>
   </table>
 </div>
-
- 
-
 
 
 ## 🛠️ What I Built
