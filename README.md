@@ -1,4 +1,4 @@
-🎨 AI ART GENERATOR
+# 🎨 AI ART GENERATOR
 
 HEAD
 **Live Demo:** [https://ai-art-generator-ochre.vercel.app](https://ai-art-generator-ochre.vercel.app) | **Source Code:** [https://github.com/Aikaksh-Singh-Routela/ai-art-generator](https://github.com/Aikaksh-Singh-Routela/ai-art-generator)
